@@ -1,0 +1,22 @@
+{
+  "name": "tal-aries",
+  "version": "1.0.8",
+  "description": "TAL 前端 js模板，适用与前后端分离的多页面多入口项目",
+  "main": "index.js",
+  "bin": {
+    "tal-aries": "bin/aries.js"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "author": "TAL fe development <lish0919@gamil.com>",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.8.2",
+    "yargs": "^11.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lish0919/tal-aries.git"
+  }
+}
