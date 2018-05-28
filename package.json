@@ -1,6 +1,6 @@
 {
   "name": "tal-aries",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "TAL 前端 js模板，适用与前后端分离的多页面多入口项目",
   "main": "index.js",
   "bin": {

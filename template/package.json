@@ -8,11 +8,7 @@
     "build": "npm run start --production",
     "start": "rm -rf ./dist & webpack --mode production"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@git.speiyou.cn:ips-fe/cee.git"
-  },
-  "author": "lishuai3@100tal.com",
+  "author": "lish0919@gmail.com",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^8.5.0",
